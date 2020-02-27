@@ -1,0 +1,5 @@
+4
+Rectangle 4 5
+Circle 2
+Circle 3
+Triangle 1 1 1
